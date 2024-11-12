@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+h3 {
+	text-align:center;
+	font-style:italic;
+	font-weight:bold;
+	text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+	background-color:yellow;
+}
+h1 {
+	text-align:center;
+	color:blue;
+	font-decoration:underline;
+	background: linear-gradient(to bottom, #6db3f2 0%,#54a3ee 27%,#54a3ee 29%,#3690f0 46%,#3690f0 46%,#3690f0 62%,#1e69de 100%);
+}
+p {
+	font-family: "Itim", serif;
+}
+body {
+	background-color:lightblue;
+}
+ul {
+	font-style:italic;
+}
+ol {
+	font-style:italic;
+}
+h2 {
+	text-align:center;
+	font-family: "Itim", serif;
+	color:blue;
+	background-color:orange;
+	text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+}
+.centrado {
+	text-align:center;
+}
+a {
+	text-align:center;
+}
+.playwrite-gb-s-<uniquifier> {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+img {
+	width:40%;
+	height:auto;
+	border:5px red solid;
+}
+.itim-regular {
+  font-family: "Itim", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#contenedor {
+	width: 930px;
+ 	height:auto;
+ 	margin:auto;
+}
+body {
+	background-color:blue;
+} 
+#encabezado {
+background-image: url(img/header.jpg);
+height: 200px;
+}
+#botonera {
+background-color: #C00;
+height: 40px;
+}
+#botonera ul {
+	margin:auto;
+	width:600px;
+}
+#botonera ul li {
+	float:left;
+	width: 98px;
+	line-height: 40px;
+	text-align:center;
+	list-style-type:none;
+}
+#botonera ul li a {
+	font-size: 18px;
+	font-weight;
+	color:white;
+	text-decoration: none;
+}
+#centro {
+height:auto;
+background-color:white;
+}
+h1 {
+	color:orange;
+}
+h2 {
+	color:grey;
+}
+#caja1 {
+	width:530px;
+	height:auto;
+	float:left;
+	background-color:white;
+}
+#caja2 {
+	witdh:315px;
+	height:auto;
+	background-color:yellow;
+}
+#pie {
+	witdh:930px;
+	height:auto;
+	background-color:red;
+	color:white;
+	text-align:center;
+}
